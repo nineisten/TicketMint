@@ -2,7 +2,7 @@
 
 ## Problem
 - **Ticket Fraud and Counterfeiting**: Traditional ticketing systems suffer from fake tickets, causing financial losses and attendee frustration.
-- **Scalping and Unauthorized Resales**: Scalpers inflate ticket prices, limiting accessibility for genuine fans.[](https://cometogether.network/understanding-nft-ticketing/)
+- **Scalping and Unauthorized Resales**: Scalpers inflate ticket prices, limiting accessibility for genuine fans.
 - **Lack of Post-Event Value**: Traditional tickets become worthless after events, missing opportunities for collectible or engagement potential.
 - **Opaque Revenue Distribution**: Event organizers lose control over secondary sales and associated profits.
 - **Crypto Accessibility**: Cryptocurrency-based ticketing is often complex for non-crypto users, limiting adoption.
@@ -60,7 +60,7 @@ TicketMint delivers secure, transparent NFT-based event ticketing on the QUBIC b
 - **QUBIC’s UPoW Blockchain**: Scalable, low-cost transactions via Useful Proof of Work, ideal for high-volume NFT ticketing.
 - **Hybrid Payments**: Seamless QUBIC and bank card integration, broadening accessibility.
 - **Revenue Sharing Model**: Incentivizes token holders with proceeds, driving platform loyalty.
-- **Anti-Scalping Controls**: Smart contract rules ensure fair pricing and organizer profits.[](https://cometogether.network/understanding-nft-ticketing/)
+- **Anti-Scalping Controls**: Smart contract rules ensure fair pricing and organizer profits.
 - **Collectible NFTs**: Tickets double as digital keepsakes, boosting fan engagement.
 
 ## Notes
