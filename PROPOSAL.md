@@ -1,4 +1,4 @@
-# TicketMint Proposal and Roadmap for Incubator Funding
+# TicketMint Proposal and Roadmap 
 
 ## Executive Summary
 TicketMint is a revolutionary ticketing platform built on the QUBIC blockchain, leveraging Useful Proof of Work (UPoW) to deliver secure, transparent, and collectible NFT-based event tickets. Users can create events, mint tickets as NFTs using QUBIC tokens or bank cards, transfer tickets securely, and verify single-use tickets at events via QR/NFC scanning. Smart contracts ensure automated revenue sharing for event organizers and TicketMint token holders, while anti-scalping controls maintain fair pricing. With a $500,000 seed investment, TicketMint aims to develop and launch a scalable platform, targeting the $20 billion global ticketing market with a blockchain-driven solution that eliminates fraud, enhances fan engagement, and creates new revenue streams.
@@ -88,7 +88,7 @@ TicketMint offers:
 - **Projected Revenue**: $300,000 in Year 1 (beta), $2M in Year 2 (full launch).
 
 ## Team
-- **Founder/CEO**: [Your Name], experienced in blockchain and event management, leading vision and partnerships.
+- **Founder/CEO**: Nineisten
 - **CTO**: Blockchain developer skilled in QUBIC and smart contracts.
 - **Frontend Developer**: Expert in web/mobile UX for ticketing platforms.
 - **Marketing Lead**: Specialist in crypto and event marketing to drive adoption.
